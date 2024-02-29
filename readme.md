@@ -4,3 +4,5 @@
 
 para ejecutar el sitema debes poner en:
 bla bla bla
+
+sistema de registro 2
